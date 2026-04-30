@@ -17,7 +17,7 @@ export default defineConfig({
         manualChunks: {
           vendor: ["react", "react-dom"],
           three: ["three", "@react-three/fiber", "@react-three/drei"],
-          ui: ["framer-motion", "radix-ui"],
+          ui: ["framer-motion", "@radix-ui/react-slot", "@radix-ui/react-dialog"],
         },
       },
     },
