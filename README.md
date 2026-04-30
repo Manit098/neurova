@@ -167,7 +167,7 @@ This project is licensed under the MIT License.
 
 ## 🔗 Links
 
-- **Live Demo**: [Your Vercel URL]
+- **Live Demo**: [https://neurova-pi.vercel.app/]
 - **GitHub Repository**: https://github.com/Manit098/neurova
 - **Vercel Dashboard**: https://vercel.com/dashboard
 
